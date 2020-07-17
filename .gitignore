@@ -1,7 +1,2 @@
 node_module
 
-./config/key
-
-./client/node_module
-
-./models/user.js
