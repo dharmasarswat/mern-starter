@@ -10,13 +10,6 @@ npm i
 npm run client-install
 ```
 
-### Add Files
-
-```
-Add key.js in config having mongoURI in it.
-Add user.js in models having User model in it.
-```
-
 ### Start Server 
 ```
 npm server
