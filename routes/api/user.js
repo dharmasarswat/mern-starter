@@ -2,7 +2,6 @@ const router = require('express').Router();
 
 //User Model
 const User = require('../../models/user');
-const user = require('../../models/user');
 
 //@route    GET api/user
 //@desc     Get User

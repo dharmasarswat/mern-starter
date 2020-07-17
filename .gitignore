@@ -1,6 +1,5 @@
-/node_module
+node_module
 /config/key
-/client/node_module
-/models/user.js
-/client
-/.gitignore
+models/user.js
+client
+.gitignore
