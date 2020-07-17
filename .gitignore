@@ -1,5 +1,3 @@
-node_module
-/config/key
-models/user.js
-client
-.gitignore
+node_module/
+client/
+*.gitignore
